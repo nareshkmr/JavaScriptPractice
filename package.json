@@ -1,0 +1,23 @@
+{
+  "name": "JavaScriptPractice",
+  "version": "1.0.0",
+  "description": "updating my latest skills on JavaScript ES6 # EcmaScript2015",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuthanNaresh/JavaScriptPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuthanNaresh/JavaScriptPractice/issues"
+  },
+  "homepage": "https://github.com/nuthanNaresh/JavaScriptPractice#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
