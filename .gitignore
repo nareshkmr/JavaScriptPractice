@@ -1,0 +1,14 @@
+# Global
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.iml
+
+# Node.js
+node_modules/
+*.log
+
+# Generated files
+build/
